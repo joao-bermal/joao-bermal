@@ -1,4 +1,4 @@
-# João Vitor Bermal Santaniello 😃
+# João Vitor Bermal Santaniello
 
 ## 🧐 Sobre
 Cursando técnico em informática no Colégio Técnico Univap - CTI, entusiasta das melhores tecnologias para desenvolvimento Web e Mobile.
@@ -7,7 +7,7 @@ Cursando técnico em informática no Colégio Técnico Univap - CTI, entusiasta 
 
 ## 🚀 Projetos Recentes
 
--
+- https://github.com/joao-bermal/video-maker
 -
 -
 
