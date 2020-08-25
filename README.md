@@ -7,8 +7,8 @@ Cursando técnico em informática no Colégio Técnico Univap - CTI, entusiasta 
 
 ## 🚀 Projetos Recentes
 
+- https://github.com/joao-bermal/univap-estagios
 - https://github.com/joao-bermal/video-maker
--
 -
 
 ## ⚡ Tecnologias
