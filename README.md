@@ -9,7 +9,6 @@ Cursando técnico em informática no Colégio Técnico Univap - CTI, entusiasta 
 
 - https://github.com/joao-bermal/univap-estagios
 - https://github.com/joao-bermal/video-maker
--
 
 ## ⚡ Tecnologias
 - Desenvolvimento Front-end utilizando **HTML, CSS, JavaScript, React**
