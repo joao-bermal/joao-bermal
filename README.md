@@ -19,7 +19,7 @@ Cursando técnico em informática no Colégio Técnico Univap - CTI, entusiasta 
 - Gerenciamento de banco de dados não relacionais utilizando **Firebase, MongoDB, Knex**
 
 ## 📫 Contato
-- Twitter - [@jao_bermal](https://twitter.com/jao_bermal)
+- Twitter - [@joao_bermal](https://twitter.com/jao_bermal)
 - LinkedIn - [João Vitor Bermal Santaniello](https://www.linkedin.com/in/joão-vitor-bermal-santaniello-709a2a1b2)
 - Whatsapp - +55 (12) 99115-8100
 
