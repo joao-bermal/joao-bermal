@@ -1,26 +1,27 @@
 # João Vitor Bermal Santaniello
 
-## 🧐 Sobre
-Técnico em informática e futuro Analista de Sistemas. Entusiasta das melhores tecnologias para desenvolvimento Web e Mobile.
+## 🧐 About
+Junior developer at Bizpoke Soluções em Sotware LTDA.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
-## 🚀 Projetos Recentes
+## 🚀 Recent Projects
 
+- https://github.com/joao-bermal/top-servicos
 - https://github.com/joao-bermal/univap-estagios
 - https://github.com/joao-bermal/video-maker
 
-## ⚡ Tecnologias
-- Desenvolvimento Front-end utilizando **React**
-- Desenvolvimento Back-end utilizando **Node.js e Express, PHP**
-- Desenvolvimento de aplicações Desktop utilizando **C#, Java, Python**
-- Desenvolvimento de aplicações mobile utilizando **React-Native**
-- Gerenciamento de banco de dados relacionais utilizando **MySQL, SQL Server, Postgre**
-- Gerenciamento de banco de dados não relacionais utilizando **Firebase, MongoDB, Redis**
-- Computação em Cloud utilizando **Docker**
-- Conhecimento em versionamento de código com **GIT**
+## ⚡ Tech Stack
+- Front-end development using **React and Next.JS**
+- Back-end development using **Node.js, FastAPI, Express, PHP**
+- Desktop development using **Electron, C# and Java**
+- Mobile development using **React-Native**
+- Experienced with relational databases such as **MySQL, SQL Server, PostgreSQL**
+- Experienced with non-relational databases such as **Firebase, MongoDB, Redis**
+- Building, deploying, and managing containerized applications using **Docker and Kubernets**
+- Knowledge in code versioning utilizing **GIT and SVN**
 
-## 📫 Contato
+## 📫 Contact
 - Whatsapp - +55 (12) 99115-8100
 - LinkedIn - [João Vitor Bermal Santaniello](https://www.linkedin.com/in/joão-vitor-bermal-santaniello-709a2a1b2)
 - Email - joao.bermal.santaniello@gmail.com
